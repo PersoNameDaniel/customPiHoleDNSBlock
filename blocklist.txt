@@ -1,2 +1,5 @@
 # customPiHoleDNSBlock
+
+0.0.0.0 0.0.0.0
+
 0.0.0.0 youtube.com
