@@ -1,1 +1,2 @@
 # customPiHoleDNSBlock
+duckduckgo.com
