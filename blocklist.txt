@@ -1,1 +1,93 @@
 # customPiHoleDNSBlock
+
+# Google ads
+https://pagead2.googlesyndication.com
+https://pagead2.googleadservices.com
+
+# Amazon
+https://aax.amazon-adsystem.com
+
+# Analytics
+
+	# FreshMarketer
+	https://freshmarketer.com/
+
+	# LuckyOrange
+	https://cdn.luckyorange.com
+	https://w1.luckyorange.com
+	https://upload.luckyorange.net
+	https://cs.luckyorange.net
+	https://settings.luckyorange.net
+
+	#Stats WP Plugin
+	https://stats.wp.com
+
+# Social Trackers
+
+	# Facebook
+	https://pixel.facebook.com
+	https://analytics.facebook.com
+	https://ads.facebook.com
+
+	# Twitter
+	https://static.ads-twitter.com
+
+	# LinkedIn
+	https://ads.linkedin.com
+	https://analytics.pointdrive.linkedin.com
+
+	# Pintrest
+	https://ads.pinterest.com
+	https://log.pinterest.com
+	https://ct.pinterest.com
+	https://analytics.pinterest.com
+	https://trk.pinterest.com
+
+	# Reddit
+	https://events.redditmedia.com
+
+	# YouTube
+	https://ads.youtube.com
+
+	# TikTok
+	https://analytics.tiktok.com
+	https://ads.tiktok.com
+
+# Mix
+	# Yahoo
+	https://ads.yahoo.com
+	https://analytics.yahoo.com
+	https://ads.yap.yahoo.com
+
+# OEM
+	# Xiaomi
+	https://api.ad.xiaomi.com
+	https://data.mistat.xiaomi.com
+	https://data.mistat.intl.xiaomi.com
+	https://sdkconfig.ad.xiaomi.com
+	https://sdkconfig.ad.intl.xiaomi.com
+	https://globalapi.ad.xiaomi.com
+	https://tracking.miui.com
+	https://tracking.rus.miui.com
+
+	# Huawei
+	https://logservice1.hicloud.com
+	https://logbak.hicloud.com
+
+	# OnePlus
+	https://click.oneplus.cn
+	https://click.oneplus.com
+	https://open.oneplus.net
+
+	# Samsung
+	https://samsungads.com
+	https://smetrics.samsung.com
+	https://samsung-com.112.2o7.net
+	https://business.samsungusa.com
+	https://config.samsungads.com
+
+	# Apple
+	https://securemetrics.apple.com
+	https://supportmetrics.apple.com
+	https://metrics.icloud.com
+	https://metrics.mzstatic.com
