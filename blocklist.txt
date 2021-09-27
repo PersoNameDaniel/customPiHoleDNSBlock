@@ -22,6 +22,11 @@ https://aax.amazon-adsystem.com
 	#Stats WP Plugin
 	https://stats.wp.com
 
+# Error Trackers
+
+	# Sentry
+	https://browser.sentry-cdn.com
+
 # Social Trackers
 
 	# Facebook
