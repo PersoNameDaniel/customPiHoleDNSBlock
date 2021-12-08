@@ -13,7 +13,7 @@
 	0.0.0.0 https://freshmarketer.com/
 
 	# LuckyOrange
-	0.0.0.0 https://cdn.luckyorange.com
+	0.0.0.0 cdn.luckyorange.com
 	0.0.0.0 https://w1.luckyorange.com
 	0.0.0.0 https://upload.luckyorange.net
 	0.0.0.0 https://cs.luckyorange.net
