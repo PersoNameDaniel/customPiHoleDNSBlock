@@ -11,6 +11,6 @@
 192.168.99.207 local.ts3
 192.168.99.100 local.nas
 192.168.99.236 local.plex
-192.168.99.185 local.satisfactory
+192.168.99.185 local.satisfactory 192.168.99.185
 192.168.99.231 local.minecraft.survival
 192.168.99.191 local.minecraft.hardcore
