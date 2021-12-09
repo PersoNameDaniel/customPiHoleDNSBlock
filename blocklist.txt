@@ -1,98 +1,98 @@
 # customPiHoleDNSBlock
 
 # Google ads
-0.0.0.0 pagead2.googlesyndication.com
-0.0.0.0 pagead2.googleadservices.com
+pagead2.googlesyndication.com
+pagead2.googleadservices.com
 
 # Amazon
-0.0.0.0 aax.amazon-adsystem.com
+aax.amazon-adsystem.com
 
 # Analytics
 
 	# FreshMarketer
-	0.0.0.0 freshmarketer.com/
+	freshmarketer.com/
 
 	# LuckyOrange
-	0.0.0.0 cdn.luckyorange.com
-	0.0.0.0 w1.luckyorange.com
-	0.0.0.0 upload.luckyorange.net
-	0.0.0.0 cs.luckyorange.net
-	0.0.0.0 settings.luckyorange.net
+	cdn.luckyorange.com
+	w1.luckyorange.com
+	upload.luckyorange.net
+	cs.luckyorange.net
+	settings.luckyorange.net
 
 	#Stats WP Plugin
-	0.0.0.0 stats.wp.com
+	stats.wp.com
 
 # Error Trackers
 
 	# Sentry
-	0.0.0.0 browser.sentry-cdn.com
+	browser.sentry-cdn.com
 
 # Social Trackers
 
 	# Facebook
-	0.0.0.0 pixel.facebook.com
-	0.0.0.0 analytics.facebook.com
-	0.0.0.0 ads.facebook.com
+	pixel.facebook.com
+	analytics.facebook.com
+	ads.facebook.com
 
 	# Twitter
-	0.0.0.0 static.ads-twitter.com
+	static.ads-twitter.com
 
 	# LinkedIn
-	0.0.0.0 ads.linkedin.com
-	0.0.0.0 analytics.pointdrive.linkedin.com
+	ads.linkedin.com
+	analytics.pointdrive.linkedin.com
 
 	# Pintrest
-	0.0.0.0 ads.pinterest.com
-	0.0.0.0 log.pinterest.com
-	0.0.0.0 ct.pinterest.com
-	0.0.0.0 analytics.pinterest.com
-	0.0.0.0 trk.pinterest.com
+	ads.pinterest.com
+	log.pinterest.com
+	ct.pinterest.com
+	analytics.pinterest.com
+	trk.pinterest.com
 
 	# Reddit
-	0.0.0.0 events.redditmedia.com
+	events.redditmedia.com
 
 	# YouTube
-	0.0.0.0 ads.youtube.com
+	ads.youtube.com
 
 	# TikTok
-	0.0.0.0 analytics.tiktok.com
-	0.0.0.0 ads.tiktok.com
+	analytics.tiktok.com
+	ads.tiktok.com
 
 # Mix
 	# Yahoo
-	0.0.0.0 ads.yahoo.com
-	0.0.0.0 analytics.yahoo.com
-	0.0.0.0 ads.yap.yahoo.com
+	ads.yahoo.com
+	analytics.yahoo.com
+	ads.yap.yahoo.com
 
 # OEM
 	# Xiaomi
-	0.0.0.0 api.ad.xiaomi.com
-	0.0.0.0 data.mistat.xiaomi.com
-	0.0.0.0 data.mistat.intl.xiaomi.com
-	0.0.0.0 sdkconfig.ad.xiaomi.com
-	0.0.0.0 sdkconfig.ad.intl.xiaomi.com
-	0.0.0.0 globalapi.ad.xiaomi.com
-	0.0.0.0 tracking.miui.com
-	0.0.0.0 tracking.rus.miui.com
+	api.ad.xiaomi.com
+	data.mistat.xiaomi.com
+	data.mistat.intl.xiaomi.com
+	sdkconfig.ad.xiaomi.com
+	sdkconfig.ad.intl.xiaomi.com
+	globalapi.ad.xiaomi.com
+	tracking.miui.com
+	tracking.rus.miui.com
 
 	# Huawei
-	0.0.0.0 logservice1.hicloud.com
-	0.0.0.0 logbak.hicloud.com
+	logservice1.hicloud.com
+	logbak.hicloud.com
 
 	# OnePlus
-	0.0.0.0 click.oneplus.cn
-	0.0.0.0 click.oneplus.com
-	0.0.0.0 open.oneplus.net
+	click.oneplus.cn
+	click.oneplus.com
+	open.oneplus.net
 
 	# Samsung
-	0.0.0.0 samsungads.com
-	0.0.0.0 smetrics.samsung.com
-	0.0.0.0 samsung-com.112.2o7.net
-	0.0.0.0 business.samsungusa.com
-	0.0.0.0 config.samsungads.com
+	samsungads.com
+	smetrics.samsung.com
+	samsung-com.112.2o7.net
+	business.samsungusa.com
+	config.samsungads.com
 
 	# Apple
-	0.0.0.0 securemetrics.apple.com
-	0.0.0.0 supportmetrics.apple.com
-	0.0.0.0 metrics.icloud.com
-	0.0.0.0 metrics.mzstatic.com
+	securemetrics.apple.com
+	supportmetrics.apple.com
+	metrics.icloud.com
+	metrics.mzstatic.com
