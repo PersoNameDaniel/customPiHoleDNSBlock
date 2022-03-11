@@ -96,3 +96,18 @@ aax.amazon-adsystem.com
 	supportmetrics.apple.com
 	metrics.icloud.com
 	metrics.mzstatic.com
+
+# Misc
+	e17437.dsct.akamaiedge.net
+	a1806.dscb.akamai.net
+	6bf5.playfabapi.com
+	e10204.dsca.akamaiedge.net
+	apps.mzstatic.com
+	e673.dsce9.akamaiedge.net
+	a1887.dscq.akamai.net
+	e3925.dscx.akamaiedge.net
+	gearbox.playablefactory.com	
+	a1838.dscb.akamai.net	
+	e10204.a.akamaiedge.net	
+	szeventhub.servicebus.windows.net	
+	
